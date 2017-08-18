@@ -93,7 +93,20 @@ img{
 	::selectoin{background:#E860E8;color:#fff;}
 	::-moz-selectoin{background:#E860E8;color:#fff;}
 	
-
+header, footer{
+	width: 100%;
+	background-color: #fff;
+	min-height: 100 px;
+	float: auto;
+}
+header{
+    border-bottom: 1px solid silver;
+    min-width: 100%;	
+	max-width: 100%;
+	position: fixed;
+	padding-top:55px;
+	z-index: 1;
+}
 
 }
 input[type=text].field:hover{
