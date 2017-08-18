@@ -107,6 +107,9 @@ header{
 	padding-top:55px;
 	z-index: 1;
 }
+input{
+display: inline-block;
+list-style-type: none;
 
 }
 input[type=text].field:hover{
