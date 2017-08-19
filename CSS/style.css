@@ -79,6 +79,19 @@ header a:hover{
   font-weight:bold;
 }
 
+#articles{
+	
+	float: center;
+}
+
+#wrapper #articles article{
+	width: 980px;
+	height: 900px;
+	box-sizing: border-box;
+	background-color:#FFFFFF ;
+}
+
+
 /* Showcase */
 #showcase{
   min-height:400px;
