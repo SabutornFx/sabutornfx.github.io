@@ -98,22 +98,6 @@ footer, #Page-warp{
 	margin-top: 10px;
 }
 
-#text1{
-	color:#3F3E3E;
-}
-#page-wrap:after {
-	content: "";
-	display: block;
-	color:#FFFFFF;
-}
-footer, #page-wrap:after{
-	margin-top:0%;
-	height:95px;
-}
-#page-wrap{
-	min-height: 94%;
-	margin-bottom:-10px;
-}
 /* Showcase */
 #showcase{
   min-height:400px;
@@ -201,7 +185,7 @@ footer{
   padding:20px;
   margin-top:20px;
   color:#ffffff;
-  background-color:#e8491d;
+  background-color:#2F2E2E;
   text-align: center;
 }
 
