@@ -91,13 +91,6 @@ header a:hover{
 	background-color:#FFFFFF ;
 }
 
-footer, #Page-warp{
-	background-color: #2F2E2E;
-	width: 100%;
-	border-top: 1px solid #2F2E2E;
-	margin-top: 10px;
-}
-
 /* Showcase */
 #showcase{
   min-height:400px;
@@ -183,7 +176,7 @@ ul#services li{
 
 footer{
   padding:20px;
-  margin-top:20px;
+  margin-top:30px;
   color:#ffffff;
   background-color:#2F2E2E;
   text-align: center;
