@@ -175,8 +175,9 @@ ul#services li{
 }
 
 footer{
-  padding:100px;
+  padding:50px;
   margin-top:20px;
+  border-top:#0090ff 3px solid;
   color:#ffffff;
   background-color:#2F2E2E;
   text-align: center;
