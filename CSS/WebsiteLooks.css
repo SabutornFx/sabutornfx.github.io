@@ -79,6 +79,17 @@ img{
 	margin-top:20px;
 }
 
+header #bottons .box{
+	float:left;
+	text-align: center;
+	width:30%;
+	padding:10px;
+}
+
+#bottons .box img{
+	width:90px;
+}
+
 #PRB{
 	margin-top:10px;
 	padding: 5, 5, 0, 5;
@@ -107,11 +118,7 @@ header{
 	padding-top:55px;
 	z-index: 1;
 }
-input{
-display: inline-block;
-list-style-type: none;
 
-}
 input[type=text].field:hover{
 	border: 2px solid #C40000;
 	transition: all.4s ease;	
