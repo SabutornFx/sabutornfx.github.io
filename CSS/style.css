@@ -16,8 +16,8 @@ body{
 
 .container{
   width:80%;
-  margin:auto;
   overflow:hidden;
+  margin:auto;
 }
 
 ul{
@@ -61,7 +61,7 @@ header a{
 header li{
   float:middle;
   display:inline;
-  padding: 0 100px 0 100px;
+  padding: 0 50px 0 50px;
 }
 
 header #branding{
@@ -73,13 +73,19 @@ header #branding h1{
 }
 
 header nav{
-  float:middle;
+  float:left;
   margin-top:10px;
 }
 
 header .highlight, header .current a{
   color:#0090ff;
   font-weight:bold;
+}
+
+header .currect a{
+  color:#0090ff;
+  font-weight:bold;
+  margin-right:-80px;
 }
 
 header a:hover{
