@@ -78,12 +78,12 @@ header nav{
 }
 
 header .highlight, header .current a{
-  color:#0090ff;
+  color:#FF0000;
   font-weight:bold;
 }
 
 header .currect a{
-  color:#0090ff;
+  color:#FF0000;
   font-weight:bold;
   margin-right:-80px;
 }
