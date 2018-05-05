@@ -47,8 +47,8 @@ header{
   background:#35424a;
   color:#ffffff;
   min-height:70px;
-  border-bottom:#0090ff 3px solid;
-  border-top:#0090ff 3px solid;
+  border-bottom:#FF0000 3px solid;
+  border-top:#FF0000 3px solid;
 }
 
 header a{
